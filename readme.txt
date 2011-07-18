@@ -26,5 +26,8 @@ You can either install it automatically from the WordPress admin, or do it manua
 
 == Changelog ==
 
+= 1.0.1 (2011-07-18) =
+* Fixed typo in readme.txt
+
 = 1.0 (2011-07-18) =
 * First release. Enjoy :)
