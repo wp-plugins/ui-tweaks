@@ -1,0 +1,27 @@
+
+/**
+ * Increase the size of the WordPress Admin header, text and icon.
+ * @since 1.0
+ */
+
+
+#wphead {
+	height: 45px;
+}
+
+#wphead h1 {
+    font-size: 26px;
+    line-height: 1.23;
+    padding: 8px 8px 6px;
+}
+
+#header-logo {
+    background: url(wp-logo-32x32.png) no-repeat scroll center center transparent;
+    height: 32px;
+    width: 32px;
+}
+
+#wphead-info {
+    padding-top: 10px;
+}
+
