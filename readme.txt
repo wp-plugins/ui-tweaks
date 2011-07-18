@@ -1,9 +1,9 @@
 === Plugin Name ===
-Contributors: James Morrison, John O'Nolan
+Contributors: jamesmorrison, John O'Nolan
 Tags: ui, admin, design
 Requires at least: 3.2
 Tested up to: 3.2.1
-Stable tag: 1.0
+Stable tag: 1.0.1
 
 Adds various tweaks the WordPress Admin UI...
 
